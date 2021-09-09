@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pamphlet", "Pamphlet.csproj", "{F1AE7B1D-459A-4EDD-A4D1-51D112F217CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pamphlet.Collector", "..\Pamphlet.Collector\Pamphlet.Collector.csproj", "{01FEF00D-58BF-4560-9F19-64947A4B8C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AE7B1D-459A-4EDD-A4D1-51D112F217CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AE7B1D-459A-4EDD-A4D1-51D112F217CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AE7B1D-459A-4EDD-A4D1-51D112F217CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AE7B1D-459A-4EDD-A4D1-51D112F217CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FEF00D-58BF-4560-9F19-64947A4B8C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FEF00D-58BF-4560-9F19-64947A4B8C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FEF00D-58BF-4560-9F19-64947A4B8C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FEF00D-58BF-4560-9F19-64947A4B8C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1DA5B07-FB4E-406F-9FBB-EF0573B538E1}
+	EndGlobalSection
+EndGlobal
